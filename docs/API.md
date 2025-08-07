@@ -2,6 +2,7 @@
 
 ## Endpoint
 
+
 **POST** `/api/friday`
 
 ## Запрос (JSON)
