@@ -14,7 +14,9 @@
 
 ## Структура взаимодействия
 
+```
 [Trading Engine KIT] → (HTTP JSON запрос) → [Friday API /api/friday] → (LLM inference) → (возврат комментария JSON) → [Dashboard / Telegram]
+```
 
 ## Алгоритм работы Friday API
 
